@@ -1,6 +1,6 @@
 # Diploma_Thesis
 
-#Replacing Unknown Continuous Values as a Factor in Training Machine Learning Models for Binary Classification
+# Replacing Unknown Continuous Values as a Factor in Training Machine Learning Models for Binary Classification
 
 
 A particularly interesting field of Data Science, among others, is the handling of NaN (Not
