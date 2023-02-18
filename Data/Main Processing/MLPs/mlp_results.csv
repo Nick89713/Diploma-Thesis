@@ -1,0 +1,145 @@
+,Mean Accuracy,Std of Accuracy,Parameters,Algorithm,NaNs Handled
+0,0.8409068418418771,0.1743484339757357,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [50], 'Batch Size': [32], 'Learning Rate': [0.001], 'Momentum': [0.99]}",Small Ascending MLP,Ignored
+1,0.8826258660670863,0.14438822784420893,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [50], 'Batch Size': [64], 'Learning Rate': [0.001], 'Momentum': [0.99]}",Small Ascending MLP,Ignored
+2,0.5399057282011883,0.13104694960812185,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [50], 'Batch Size': [32], 'Learning Rate': [0.01], 'Momentum': [0.99]}",Small Ascending MLP,Ignored
+3,0.7683240060052017,0.20512076442711175,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [50], 'Batch Size': [64], 'Learning Rate': [0.01], 'Momentum': [0.99]}",Small Ascending MLP,Ignored
+4,0.49388604213508885,0.013213456629761136,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [50], 'Batch Size': [32], 'Learning Rate': [0.1], 'Momentum': [0.99]}",Small Ascending MLP,Ignored
+5,0.5127082966231313,0.03163923252894606,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [50], 'Batch Size': [64], 'Learning Rate': [0.1], 'Momentum': [0.99]}",Small Ascending MLP,Ignored
+6,0.8284654313243162,0.18460869380066117,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [50], 'Batch Size': [32], 'Learning Rate': [0.001], 'Momentum': [0.8]}",Small Ascending MLP,Ignored
+7,0.9143400974083185,0.011359180409296787,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [50], 'Batch Size': [64], 'Learning Rate': [0.001], 'Momentum': [0.8]}",Small Ascending MLP,Ignored
+8,0.9304278353785321,0.00998799642574219,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [50], 'Batch Size': [32], 'Learning Rate': [0.01], 'Momentum': [0.8]}",Small Ascending MLP,Ignored
+9,0.8401947109115643,0.18392715971171922,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [50], 'Batch Size': [64], 'Learning Rate': [0.01], 'Momentum': [0.8]}",Small Ascending MLP,Ignored
+10,0.7149203535456768,0.22766906688598196,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [50], 'Batch Size': [32], 'Learning Rate': [0.1], 'Momentum': [0.8]}",Small Ascending MLP,Ignored
+11,0.7542935429985128,0.22428021397579068,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [50], 'Batch Size': [64], 'Learning Rate': [0.1], 'Momentum': [0.8]}",Small Ascending MLP,Ignored
+12,0.8839918380005216,0.1338538599369598,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [100], 'Batch Size': [32], 'Learning Rate': [0.001], 'Momentum': [0.99]}",Small Ascending MLP,Ignored
+13,0.8398369714611953,0.1815059263827442,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [100], 'Batch Size': [64], 'Learning Rate': [0.001], 'Momentum': [0.99]}",Small Ascending MLP,Ignored
+14,0.5818630221952819,0.17906326564826444,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [100], 'Batch Size': [32], 'Learning Rate': [0.01], 'Momentum': [0.99]}",Small Ascending MLP,Ignored
+15,0.8371935549807228,0.18319161388225136,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [100], 'Batch Size': [64], 'Learning Rate': [0.01], 'Momentum': [0.99]}",Small Ascending MLP,Ignored
+16,0.50077271157411,0.014678756005914983,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [100], 'Batch Size': [32], 'Learning Rate': [0.1], 'Momentum': [0.99]}",Small Ascending MLP,Ignored
+17,0.49471584541539504,0.01360531283465022,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [100], 'Batch Size': [64], 'Learning Rate': [0.1], 'Momentum': [0.99]}",Small Ascending MLP,Ignored
+18,0.8804557821211331,0.14162961768712867,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [100], 'Batch Size': [32], 'Learning Rate': [0.001], 'Momentum': [0.8]}",Small Ascending MLP,Ignored
+19,0.9275781486780803,0.00817291568812788,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [100], 'Batch Size': [64], 'Learning Rate': [0.001], 'Momentum': [0.8]}",Small Ascending MLP,Ignored
+20,0.8942035354567689,0.12842943555002992,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [100], 'Batch Size': [32], 'Learning Rate': [0.01], 'Momentum': [0.8]}",Small Ascending MLP,Ignored
+21,0.8857989314688075,0.13391933186678476,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [100], 'Batch Size': [64], 'Learning Rate': [0.01], 'Momentum': [0.8]}",Small Ascending MLP,Ignored
+22,0.881345073549624,0.1318803597541802,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [100], 'Batch Size': [32], 'Learning Rate': [0.1], 'Momentum': [0.8]}",Small Ascending MLP,Ignored
+23,0.8879106197621884,0.13571246424165048,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [100], 'Batch Size': [64], 'Learning Rate': [0.1], 'Momentum': [0.8]}",Small Ascending MLP,Ignored
+24,0.8445030202217414,0.1750800022074818,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [150], 'Batch Size': [32], 'Learning Rate': [0.001], 'Momentum': [0.99]}",Small Ascending MLP,Ignored
+25,0.9230068298596672,0.01224439125450524,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [150], 'Batch Size': [64], 'Learning Rate': [0.001], 'Momentum': [0.99]}",Small Ascending MLP,Ignored
+26,0.6191671659254143,0.19642848199903848,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [150], 'Batch Size': [32], 'Learning Rate': [0.01], 'Momentum': [0.99]}",Small Ascending MLP,Ignored
+27,0.7476680504944424,0.2160796061105482,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [150], 'Batch Size': [64], 'Learning Rate': [0.01], 'Momentum': [0.99]}",Small Ascending MLP,Ignored
+28,0.4941238537606518,0.013332803266281258,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [150], 'Batch Size': [32], 'Learning Rate': [0.1], 'Momentum': [0.99]}",Small Ascending MLP,Ignored
+29,0.5090827970707021,0.011156421700441593,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [150], 'Batch Size': [64], 'Learning Rate': [0.1], 'Momentum': [0.99]}",Small Ascending MLP,Ignored
+30,0.883101700768976,0.13582930949030278,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [150], 'Batch Size': [32], 'Learning Rate': [0.001], 'Momentum': [0.8]}",Small Ascending MLP,Ignored
+31,0.7923586275435764,0.21037839964376398,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [150], 'Batch Size': [64], 'Learning Rate': [0.001], 'Momentum': [0.8]}",Small Ascending MLP,Ignored
+32,0.8900723514029758,0.13816727398000636,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [150], 'Batch Size': [32], 'Learning Rate': [0.01], 'Momentum': [0.8]}",Small Ascending MLP,Ignored
+33,0.7567844329947772,0.2241976507492213,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [150], 'Batch Size': [64], 'Learning Rate': [0.01], 'Momentum': [0.8]}",Small Ascending MLP,Ignored
+34,0.7552751679271481,0.22092808612352197,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [150], 'Batch Size': [32], 'Learning Rate': [0.1], 'Momentum': [0.8]}",Small Ascending MLP,Ignored
+35,0.8485625224666437,0.18090969769247092,"{'Neurons': [5, 2, 4, 6, 8, 10, 1], 'Epochs': [150], 'Batch Size': [64], 'Learning Rate': [0.1], 'Momentum': [0.8]}",Small Ascending MLP,Ignored
+0,0.7112647927430098,0.2214765252224066,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [50], 'Batch Size': [32], 'Learning Rate': [0.001], 'Momentum': [0.99]}",Large Descending MLP,Ignored
+1,0.8381178415106043,0.18332117208524418,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [50], 'Batch Size': [64], 'Learning Rate': [0.001], 'Momentum': [0.99]}",Large Descending MLP,Ignored
+2,0.4977436089006675,0.014507663586941555,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [50], 'Batch Size': [32], 'Learning Rate': [0.01], 'Momentum': [0.99]}",Large Descending MLP,Ignored
+3,0.530048386983091,0.0915418783699575,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [50], 'Batch Size': [64], 'Learning Rate': [0.01], 'Momentum': [0.99]}",Large Descending MLP,Ignored
+4,0.5007136463274526,0.014682078349287062,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [50], 'Batch Size': [32], 'Learning Rate': [0.1], 'Momentum': [0.99]}",Large Descending MLP,Ignored
+5,0.495962136216582,0.014071722209073179,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [50], 'Batch Size': [64], 'Learning Rate': [0.1], 'Momentum': [0.99]}",Large Descending MLP,Ignored
+6,0.7988618310226464,0.21465152627209932,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [50], 'Batch Size': [32], 'Learning Rate': [0.001], 'Momentum': [0.8]}",Large Descending MLP,Ignored
+7,0.7783530100016212,0.20521043951481277,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [50], 'Batch Size': [64], 'Learning Rate': [0.001], 'Momentum': [0.8]}",Large Descending MLP,Ignored
+8,0.7562773740634493,0.22409084981550917,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [50], 'Batch Size': [32], 'Learning Rate': [0.01], 'Momentum': [0.8]}",Large Descending MLP,Ignored
+9,0.7611176582532757,0.22712417046008587,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [50], 'Batch Size': [64], 'Learning Rate': [0.01], 'Momentum': [0.8]}",Large Descending MLP,Ignored
+10,0.4959619952494062,0.014071677263370462,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [50], 'Batch Size': [32], 'Learning Rate': [0.1], 'Momentum': [0.8]}",Large Descending MLP,Ignored
+11,0.671086856925365,0.22228256928906664,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [50], 'Batch Size': [64], 'Learning Rate': [0.1], 'Momentum': [0.8]}",Large Descending MLP,Ignored
+12,0.7146168512161943,0.2240172651112949,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [100], 'Batch Size': [32], 'Learning Rate': [0.001], 'Momentum': [0.99]}",Large Descending MLP,Ignored
+13,0.75319840425157,0.2264515081141271,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [100], 'Batch Size': [64], 'Learning Rate': [0.001], 'Momentum': [0.99]}",Large Descending MLP,Ignored
+14,0.49477476969487655,0.01363057598555742,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [100], 'Batch Size': [32], 'Learning Rate': [0.01], 'Momentum': [0.99]}",Large Descending MLP,Ignored
+15,0.5460546106839023,0.13443181241478955,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [100], 'Batch Size': [64], 'Learning Rate': [0.01], 'Momentum': [0.99]}",Large Descending MLP,Ignored
+16,0.49062074895860497,0.010880462774692403,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [100], 'Batch Size': [32], 'Learning Rate': [0.1], 'Momentum': [0.99]}",Large Descending MLP,Ignored
+17,0.496674161421513,0.014277222380797773,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [100], 'Batch Size': [64], 'Learning Rate': [0.1], 'Momentum': [0.99]}",Large Descending MLP,Ignored
+18,0.799719263869408,0.20949785490318432,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [100], 'Batch Size': [32], 'Learning Rate': [0.001], 'Momentum': [0.8]}",Large Descending MLP,Ignored
+19,0.7984463302719962,0.21544004026355731,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [100], 'Batch Size': [64], 'Learning Rate': [0.001], 'Momentum': [0.8]}",Large Descending MLP,Ignored
+20,0.6673492884681802,0.22476431514899725,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [100], 'Batch Size': [32], 'Learning Rate': [0.01], 'Momentum': [0.8]}",Large Descending MLP,Ignored
+21,0.7603406824220981,0.22727475579894724,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [100], 'Batch Size': [64], 'Learning Rate': [0.01], 'Momentum': [0.8]}",Large Descending MLP,Ignored
+22,0.5783949477364196,0.18444200227402122,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [100], 'Batch Size': [32], 'Learning Rate': [0.1], 'Momentum': [0.8]}",Large Descending MLP,Ignored
+23,0.5861026804908477,0.18430876748042854,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [100], 'Batch Size': [64], 'Learning Rate': [0.1], 'Momentum': [0.8]}",Large Descending MLP,Ignored
+24,0.8441701614778999,0.18441066448402066,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [150], 'Batch Size': [32], 'Learning Rate': [0.001], 'Momentum': [0.99]}",Large Descending MLP,Ignored
+25,0.7102902161731641,0.2322234151173359,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [150], 'Batch Size': [64], 'Learning Rate': [0.001], 'Momentum': [0.99]}",Large Descending MLP,Ignored
+26,0.5042752525074536,0.013993593346295666,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [150], 'Batch Size': [32], 'Learning Rate': [0.01], 'Momentum': [0.99]}",Large Descending MLP,Ignored
+27,0.5423746625598229,0.12368874083000557,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [150], 'Batch Size': [64], 'Learning Rate': [0.01], 'Momentum': [0.99]}",Large Descending MLP,Ignored
+28,0.4959619952494062,0.014071677263370467,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [150], 'Batch Size': [32], 'Learning Rate': [0.1], 'Momentum': [0.99]}",Large Descending MLP,Ignored
+29,0.4974460976761561,0.014452756607116491,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [150], 'Batch Size': [64], 'Learning Rate': [0.1], 'Momentum': [0.99]}",Large Descending MLP,Ignored
+30,0.6700209336256053,0.23001692990645972,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [150], 'Batch Size': [32], 'Learning Rate': [0.001], 'Momentum': [0.8]}",Large Descending MLP,Ignored
+31,0.8424500095152844,0.18724842077150583,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [150], 'Batch Size': [64], 'Learning Rate': [0.001], 'Momentum': [0.8]}",Large Descending MLP,Ignored
+32,0.7549725818843083,0.22847802462586494,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [150], 'Batch Size': [32], 'Learning Rate': [0.01], 'Momentum': [0.8]}",Large Descending MLP,Ignored
+33,0.7123951380421069,0.23557409444467559,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [150], 'Batch Size': [64], 'Learning Rate': [0.01], 'Momentum': [0.8]}",Large Descending MLP,Ignored
+34,0.5465293881319735,0.13734224986228694,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [150], 'Batch Size': [32], 'Learning Rate': [0.1], 'Momentum': [0.8]}",Large Descending MLP,Ignored
+35,0.5351901999619388,0.13758583116647505,"{'Neurons': [5, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2, 1], 'Epochs': [150], 'Batch Size': [64], 'Learning Rate': [0.1], 'Momentum': [0.8]}",Large Descending MLP,Ignored
+0,0.7578548672441622,0.21664974251062682,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [50], 'Batch Size': [32], 'Learning Rate': [0.001], 'Momentum': [0.99]}",Large Ascending MLP,Ignored
+1,0.918496902246312,0.013769767678451028,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [50], 'Batch Size': [64], 'Learning Rate': [0.001], 'Momentum': [0.99]}",Large Ascending MLP,Ignored
+2,0.5109851843498241,0.04621796507832819,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [50], 'Batch Size': [32], 'Learning Rate': [0.01], 'Momentum': [0.99]}",Large Ascending MLP,Ignored
+3,0.711539925428364,0.21260519384268067,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [50], 'Batch Size': [64], 'Learning Rate': [0.01], 'Momentum': [0.99]}",Large Ascending MLP,Ignored
+4,0.4924614278565236,0.012368701688241234,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [50], 'Batch Size': [32], 'Learning Rate': [0.1], 'Momentum': [0.99]}",Large Ascending MLP,Ignored
+5,0.5073617288214439,0.012486495906883293,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [50], 'Batch Size': [64], 'Learning Rate': [0.1], 'Momentum': [0.99]}",Large Ascending MLP,Ignored
+6,0.8386243718150229,0.18690736158456048,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [50], 'Batch Size': [32], 'Learning Rate': [0.001], 'Momentum': [0.8]}",Large Ascending MLP,Ignored
+7,0.7434196169921834,0.22024586885232933,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [50], 'Batch Size': [64], 'Learning Rate': [0.001], 'Momentum': [0.8]}",Large Ascending MLP,Ignored
+8,0.8876124741853859,0.13994316289945954,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [50], 'Batch Size': [32], 'Learning Rate': [0.01], 'Momentum': [0.8]}",Large Ascending MLP,Ignored
+9,0.846460208490453,0.1811513234959469,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [50], 'Batch Size': [64], 'Learning Rate': [0.01], 'Momentum': [0.8]}",Large Ascending MLP,Ignored
+10,0.6686530233935029,0.22003953481066454,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [50], 'Batch Size': [32], 'Learning Rate': [0.1], 'Momentum': [0.8]}",Large Ascending MLP,Ignored
+11,0.8423312799114726,0.1799982883611985,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [50], 'Batch Size': [64], 'Learning Rate': [0.1], 'Momentum': [0.8]}",Large Ascending MLP,Ignored
+12,0.837166101623237,0.18280798895075998,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [100], 'Batch Size': [32], 'Learning Rate': [0.001], 'Momentum': [0.99]}",Large Ascending MLP,Ignored
+13,0.7962512246523397,0.20748472967346707,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [100], 'Batch Size': [64], 'Learning Rate': [0.001], 'Momentum': [0.99]}",Large Ascending MLP,Ignored
+14,0.4986362130577895,0.014630882803397834,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [100], 'Batch Size': [32], 'Learning Rate': [0.01], 'Momentum': [0.99]}",Large Ascending MLP,Ignored
+15,0.6688309944529416,0.21304754401554815,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [100], 'Batch Size': [64], 'Learning Rate': [0.01], 'Momentum': [0.99]}",Large Ascending MLP,Ignored
+16,0.4978026741473248,0.014517733690865224,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [100], 'Batch Size': [32], 'Learning Rate': [0.1], 'Momentum': [0.99]}",Large Ascending MLP,Ignored
+17,0.49797994037088467,0.014546314247359785,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [100], 'Batch Size': [64], 'Learning Rate': [0.1], 'Momentum': [0.99]}",Large Ascending MLP,Ignored
+18,0.8407283069137351,0.18110850579454962,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [100], 'Batch Size': [32], 'Learning Rate': [0.001], 'Momentum': [0.8]}",Large Ascending MLP,Ignored
+19,0.7959802152568775,0.21108119063068825,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [100], 'Batch Size': [64], 'Learning Rate': [0.001], 'Momentum': [0.8]}",Large Ascending MLP,Ignored
+20,0.8879358881284493,0.1436289551559321,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [100], 'Batch Size': [32], 'Learning Rate': [0.01], 'Momentum': [0.8]}",Large Ascending MLP,Ignored
+21,0.7607380336488648,0.2217283690848329,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [100], 'Batch Size': [64], 'Learning Rate': [0.01], 'Momentum': [0.8]}",Large Ascending MLP,Ignored
+22,0.6250077179528747,0.20576382520141093,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [100], 'Batch Size': [32], 'Learning Rate': [0.1], 'Momentum': [0.8]}",Large Ascending MLP,Ignored
+23,0.6718342296496261,0.2208388324761019,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [100], 'Batch Size': [64], 'Learning Rate': [0.1], 'Momentum': [0.8]}",Large Ascending MLP,Ignored
+24,0.80010086201428,0.20517457118545798,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [150], 'Batch Size': [32], 'Learning Rate': [0.001], 'Momentum': [0.99]}",Large Ascending MLP,Ignored
+25,0.8799225385369017,0.1327727298369571,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [150], 'Batch Size': [64], 'Learning Rate': [0.001], 'Momentum': [0.99]}",Large Ascending MLP,Ignored
+26,0.49857298927944627,0.01462418140817365,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [150], 'Batch Size': [32], 'Learning Rate': [0.01], 'Momentum': [0.99]}",Large Ascending MLP,Ignored
+27,0.7921215912374804,0.202795017975808,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [150], 'Batch Size': [64], 'Learning Rate': [0.01], 'Momentum': [0.99]}",Large Ascending MLP,Ignored
+28,0.5010694474791545,0.01465805259762096,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [150], 'Batch Size': [32], 'Learning Rate': [0.1], 'Momentum': [0.99]}",Large Ascending MLP,Ignored
+29,0.49762759291498976,0.014487084588726426,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [150], 'Batch Size': [64], 'Learning Rate': [0.1], 'Momentum': [0.99]}",Large Ascending MLP,Ignored
+30,0.8378798536760715,0.18665960539277457,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [150], 'Batch Size': [32], 'Learning Rate': [0.001], 'Momentum': [0.8]}",Large Ascending MLP,Ignored
+31,0.7500707302804542,0.22272951666552204,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [150], 'Batch Size': [64], 'Learning Rate': [0.001], 'Momentum': [0.8]}",Large Ascending MLP,Ignored
+32,0.7956830916920995,0.2145396106449777,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [150], 'Batch Size': [32], 'Learning Rate': [0.01], 'Momentum': [0.8]}",Large Ascending MLP,Ignored
+33,0.8408123585923017,0.1824168925157256,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [150], 'Batch Size': [64], 'Learning Rate': [0.01], 'Momentum': [0.8]}",Large Ascending MLP,Ignored
+34,0.7095440416698972,0.22664527540743967,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [150], 'Batch Size': [32], 'Learning Rate': [0.1], 'Momentum': [0.8]}",Large Ascending MLP,Ignored
+35,0.6696378905671815,0.2234264169295175,"{'Neurons': [5, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 1], 'Epochs': [150], 'Batch Size': [64], 'Learning Rate': [0.1], 'Momentum': [0.8]}",Large Ascending MLP,Ignored
+0,0.4972087089521205,0.014403898683491434,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [50], 'Batch Size': [32], 'Learning Rate': [0.1], 'Momentum': [0.99]}",Small Descending MLP,Ignored
+1,0.4991718178422154,0.01467539465997261,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [50], 'Batch Size': [64], 'Learning Rate': [0.1], 'Momentum': [0.99]}",Small Descending MLP,Ignored
+2,0.5789784461188212,0.17496520214805966,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [50], 'Batch Size': [32], 'Learning Rate': [0.01], 'Momentum': [0.99]}",Small Descending MLP,Ignored
+3,0.625093320270375,0.2055415581904645,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [50], 'Batch Size': [64], 'Learning Rate': [0.01], 'Momentum': [0.99]}",Small Descending MLP,Ignored
+4,0.7952413710467517,0.21593394131431673,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [50], 'Batch Size': [32], 'Learning Rate': [0.001], 'Momentum': [0.99]}",Small Descending MLP,Ignored
+5,0.8029358176448614,0.19945211101004737,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [50], 'Batch Size': [64], 'Learning Rate': [0.001], 'Momentum': [0.99]}",Small Descending MLP,Ignored
+6,0.8430439394686947,0.18222901078303935,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [50], 'Batch Size': [32], 'Learning Rate': [0.1], 'Momentum': [0.8]}",Small Descending MLP,Ignored
+7,0.7162785722844436,0.22800732756958086,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [50], 'Batch Size': [64], 'Learning Rate': [0.1], 'Momentum': [0.8]}",Small Descending MLP,Ignored
+8,0.8424752073979573,0.18195644579974918,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [50], 'Batch Size': [32], 'Learning Rate': [0.01], 'Momentum': [0.8]}",Small Descending MLP,Ignored
+9,0.7997203563650204,0.21086473224714827,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [50], 'Batch Size': [64], 'Learning Rate': [0.01], 'Momentum': [0.8]}",Small Descending MLP,Ignored
+10,0.7901876273109807,0.20722833112954753,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [50], 'Batch Size': [32], 'Learning Rate': [0.001], 'Momentum': [0.8]}",Small Descending MLP,Ignored
+11,0.7907891342500899,0.2116031674249325,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [50], 'Batch Size': [64], 'Learning Rate': [0.001], 'Momentum': [0.8]}",Small Descending MLP,Ignored
+12,0.498277451595396,0.014588778041267271,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [100], 'Batch Size': [32], 'Learning Rate': [0.1], 'Momentum': [0.99]}",Small Descending MLP,Ignored
+13,0.5035618881143525,0.014213816687007354,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [100], 'Batch Size': [64], 'Learning Rate': [0.1], 'Momentum': [0.99]}",Small Descending MLP,Ignored
+14,0.5442907941385848,0.0984120213724395,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [100], 'Batch Size': [32], 'Learning Rate': [0.01], 'Momentum': [0.99]}",Small Descending MLP,Ignored
+15,0.6283344728180044,0.2067570422745696,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [100], 'Batch Size': [64], 'Learning Rate': [0.01], 'Momentum': [0.99]}",Small Descending MLP,Ignored
+16,0.7971053447704702,0.20140273549496987,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [100], 'Batch Size': [32], 'Learning Rate': [0.001], 'Momentum': [0.99]}",Small Descending MLP,Ignored
+17,0.801559731316563,0.20445662932408717,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [100], 'Batch Size': [64], 'Learning Rate': [0.001], 'Momentum': [0.99]}",Small Descending MLP,Ignored
+18,0.8430170499799122,0.18781614868581872,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [100], 'Batch Size': [32], 'Learning Rate': [0.1], 'Momentum': [0.8]}",Small Descending MLP,Ignored
+19,0.6704346370447641,0.2264952468335747,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [100], 'Batch Size': [64], 'Learning Rate': [0.1], 'Momentum': [0.8]}",Small Descending MLP,Ignored
+20,0.845060686369179,0.19099054946598976,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [100], 'Batch Size': [32], 'Learning Rate': [0.01], 'Momentum': [0.8]}",Small Descending MLP,Ignored
+21,0.7987694975225019,0.21532702800423317,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [100], 'Batch Size': [64], 'Learning Rate': [0.01], 'Momentum': [0.8]}",Small Descending MLP,Ignored
+22,0.8409902591681527,0.17876913050826973,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [100], 'Batch Size': [32], 'Learning Rate': [0.001], 'Momentum': [0.8]}",Small Descending MLP,Ignored
+23,0.7525122112816031,0.2268524520604612,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [100], 'Batch Size': [64], 'Learning Rate': [0.001], 'Momentum': [0.8]}",Small Descending MLP,Ignored
+24,0.5061728821443927,0.013182981423928023,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [150], 'Batch Size': [32], 'Learning Rate': [0.1], 'Momentum': [0.99]}",Small Descending MLP,Ignored
+25,0.5038006160265582,0.014144951635300804,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [150], 'Batch Size': [64], 'Learning Rate': [0.1], 'Momentum': [0.99]}",Small Descending MLP,Ignored
+26,0.5249970044475144,0.07251152055485763,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [150], 'Batch Size': [32], 'Learning Rate': [0.01], 'Momentum': [0.99]}",Small Descending MLP,Ignored
+27,0.7545582441128583,0.21883831035299647,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [150], 'Batch Size': [64], 'Learning Rate': [0.01], 'Momentum': [0.99]}",Small Descending MLP,Ignored
+28,0.8447387525814614,0.18702528778474628,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [150], 'Batch Size': [32], 'Learning Rate': [0.001], 'Momentum': [0.99]}",Small Descending MLP,Ignored
+29,0.927222699944318,0.01209296619848036,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [150], 'Batch Size': [64], 'Learning Rate': [0.001], 'Momentum': [0.99]}",Small Descending MLP,Ignored
+30,0.7047018896649915,0.22283177158347134,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [150], 'Batch Size': [32], 'Learning Rate': [0.1], 'Momentum': [0.8]}",Small Descending MLP,Ignored
+31,0.7620703496690796,0.220603169362251,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [150], 'Batch Size': [64], 'Learning Rate': [0.1], 'Momentum': [0.8]}",Small Descending MLP,Ignored
+32,0.8041377037856735,0.21222068121909882,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [150], 'Batch Size': [32], 'Learning Rate': [0.01], 'Momentum': [0.8]}",Small Descending MLP,Ignored
+33,0.8423642309888143,0.18422043690710332,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [150], 'Batch Size': [64], 'Learning Rate': [0.01], 'Momentum': [0.8]}",Small Descending MLP,Ignored
+34,0.8859506473917549,0.13670021136554622,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [150], 'Batch Size': [32], 'Learning Rate': [0.001], 'Momentum': [0.8]}",Small Descending MLP,Ignored
+35,0.8005251732134172,0.20970549840822827,"{'Neurons': [5, 10, 8, 6, 4, 2, 1], 'Epochs': [150], 'Batch Size': [64], 'Learning Rate': [0.001], 'Momentum': [0.8]}",Small Descending MLP,Ignored
