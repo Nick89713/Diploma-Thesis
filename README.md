@@ -1,4 +1,4 @@
-# Diploma_Thesis
+# Diploma Thesis
 
 # Replacing Unknown Continuous Values as a Factor in Training Machine Learning Models for Binary Classification
 
